@@ -109,13 +109,9 @@ public class ElementsTests extends BaseTest {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         cartPageSteps.verifyElementsFromProductAreDisplayed("samsungGalaxyS6");
         CustomAssertions.isCartTextAsExpected(cartPageSteps.samsungS6Pic, expectedPic);
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         CustomAssertions.isCartTextAsExpected(cartPageSteps.samsungS6Title, expectedTitle);
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         CustomAssertions.isCartTextAsExpected(cartPageSteps.samsungS6Price, expectedPrice);
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         CustomAssertions.isCartTextAsExpected(cartPageSteps.samsungS6Delete, expectedDelete);
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         cartPageSteps.getTotalFromCart();
         CustomAssertions.isCartTextAsExpected(cartPageSteps.totalCart, expectedPrice);
         cartPageSteps.getBtnPlaceOrder();
