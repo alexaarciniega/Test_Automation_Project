@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="3708" started-at="2022-12-27T00:09:58 PST" finished-at="2022-12-27T00:10:02 PST">
+    <groups>
+    </groups>
+    <test name="Capstone_Project" duration-ms="3708" started-at="2022-12-27T00:09:58 PST" finished-at="2022-12-27T00:10:02 PST">
+      <class name="tests.ElementsTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="986" started-at="2022-12-27T00:09:58 PST" finished-at="2022-12-27T00:09:59 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="checkAlertAfterAddingToCart()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkAlertAfterAddingToCart" duration-ms="1487" started-at="2022-12-27T00:09:59 PST" description="Test to verify that the alert after adding an item to the cart is displayed" finished-at="2022-12-27T00:10:00 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAlertAfterAddingToCart -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1208" started-at="2022-12-27T00:10:00 PST" finished-at="2022-12-27T00:10:02 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.ElementsTests -->
+    </test> <!-- Capstone_Project -->
+  </suite> <!-- Default Suite -->
+</testng-results>

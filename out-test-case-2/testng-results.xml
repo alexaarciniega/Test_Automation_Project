@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="2407" started-at="2022-12-27T00:00:34 PST" finished-at="2022-12-27T00:00:37 PST">
+    <groups>
+    </groups>
+    <test name="Capstone_Project" duration-ms="2407" started-at="2022-12-27T00:00:34 PST" finished-at="2022-12-27T00:00:37 PST">
+      <class name="tests.ElementsTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="1101" started-at="2022-12-27T00:00:34 PST" finished-at="2022-12-27T00:00:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="checkCategoriesHomePage()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkCategoriesHomePage" duration-ms="22" started-at="2022-12-27T00:00:35 PST" description="Test to verify that there are three categories in the Home Page" finished-at="2022-12-27T00:00:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCategoriesHomePage -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1258" started-at="2022-12-27T00:00:35 PST" finished-at="2022-12-27T00:00:37 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.ElementsTests -->
+    </test> <!-- Capstone_Project -->
+  </suite> <!-- Default Suite -->
+</testng-results>

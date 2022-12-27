@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="3466" started-at="2022-12-27T00:13:32 PST" finished-at="2022-12-27T00:13:36 PST">
+    <groups>
+    </groups>
+    <test name="Capstone_Project" duration-ms="3466" started-at="2022-12-27T00:13:32 PST" finished-at="2022-12-27T00:13:36 PST">
+      <class name="tests.ElementsTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="1002" started-at="2022-12-27T00:13:32 PST" finished-at="2022-12-27T00:13:33 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="checkElementsProductPage()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkElementsProductPage" duration-ms="1214" started-at="2022-12-27T00:13:33 PST" description="Test to verify that each product page has the elements &#039;Add to cart button&#039;, &#039;Product Description&#039;, &#039;Price&#039;, &#039;Name of Product&#039; and &#039;Image of Product&#039;" finished-at="2022-12-27T00:13:34 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkElementsProductPage -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1224" started-at="2022-12-27T00:13:34 PST" finished-at="2022-12-27T00:13:36 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.ElementsTests -->
+    </test> <!-- Capstone_Project -->
+  </suite> <!-- Default Suite -->
+</testng-results>
