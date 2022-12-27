@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="4544" started-at="2022-12-27T15:34:42 PST" finished-at="2022-12-27T15:34:46 PST">
+  <suite name="Default Suite" duration-ms="3659" started-at="2022-12-27T15:52:05 PST" finished-at="2022-12-27T15:52:08 PST">
     <groups>
     </groups>
-    <test name="Capstone_Project" duration-ms="4544" started-at="2022-12-27T15:34:42 PST" finished-at="2022-12-27T15:34:46 PST">
+    <test name="Capstone_Project" duration-ms="3659" started-at="2022-12-27T15:52:05 PST" finished-at="2022-12-27T15:52:08 PST">
       <class name="tests.ElementsTests">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="1032" started-at="2022-12-27T15:34:42 PST" finished-at="2022-12-27T15:34:43 PST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="930" started-at="2022-12-27T15:52:05 PST" finished-at="2022-12-27T15:52:06 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="checkElementsInCart()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkElementsInCart" duration-ms="2191" started-at="2022-12-27T15:34:43 PST" description="Test to verify that each all the items are displayed in the cart" finished-at="2022-12-27T15:34:45 PST">
+        <test-method status="PASS" signature="checkAlertAfterAddingToCart()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkAlertAfterAddingToCart" duration-ms="1499" started-at="2022-12-27T15:52:06 PST" description="Test to verify that the alert after adding an item to the cart is displayed" finished-at="2022-12-27T15:52:07 PST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkElementsInCart -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1293" started-at="2022-12-27T15:34:45 PST" finished-at="2022-12-27T15:34:46 PST">
+        </test-method> <!-- checkAlertAfterAddingToCart -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1202" started-at="2022-12-27T15:52:07 PST" finished-at="2022-12-27T15:52:08 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

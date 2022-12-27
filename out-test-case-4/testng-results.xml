@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="3466" started-at="2022-12-27T00:13:32 PST" finished-at="2022-12-27T00:13:36 PST">
+  <suite name="Default Suite" duration-ms="4663" started-at="2022-12-27T15:52:16 PST" finished-at="2022-12-27T15:52:21 PST">
     <groups>
     </groups>
-    <test name="Capstone_Project" duration-ms="3466" started-at="2022-12-27T00:13:32 PST" finished-at="2022-12-27T00:13:36 PST">
+    <test name="Capstone_Project" duration-ms="4663" started-at="2022-12-27T15:52:16 PST" finished-at="2022-12-27T15:52:21 PST">
       <class name="tests.ElementsTests">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="1002" started-at="2022-12-27T00:13:32 PST" finished-at="2022-12-27T00:13:33 PST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="916" started-at="2022-12-27T15:52:16 PST" finished-at="2022-12-27T15:52:17 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="checkElementsProductPage()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkElementsProductPage" duration-ms="1214" started-at="2022-12-27T00:13:33 PST" description="Test to verify that each product page has the elements &#039;Add to cart button&#039;, &#039;Product Description&#039;, &#039;Price&#039;, &#039;Name of Product&#039; and &#039;Image of Product&#039;" finished-at="2022-12-27T00:13:34 PST">
+        <test-method status="PASS" signature="checkElementsInCart()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkElementsInCart" duration-ms="2418" started-at="2022-12-27T15:52:17 PST" description="Test to verify that each of all the items are displayed in the cart" finished-at="2022-12-27T15:52:20 PST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkElementsProductPage -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1224" started-at="2022-12-27T00:13:34 PST" finished-at="2022-12-27T00:13:36 PST">
+        </test-method> <!-- checkElementsInCart -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1301" started-at="2022-12-27T15:52:20 PST" finished-at="2022-12-27T15:52:21 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

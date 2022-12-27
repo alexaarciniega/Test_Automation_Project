@@ -79,7 +79,7 @@ public class ElementsTests extends BaseTest {
     }
 
 
-    @Test (description = "Test to verify that each all the items are displayed in the cart")
+    @Test (description = "Test to verify that each of all the items are displayed in the cart")
     public void checkElementsInCart() {
         String expectedHeaderOne = "Pic";
         String expectedHeaderTwo = "Title";
