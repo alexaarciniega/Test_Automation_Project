@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="2246" started-at="2022-12-27T15:51:42 PST" finished-at="2022-12-27T15:51:45 PST">
+  <suite name="Default Suite" duration-ms="2195" started-at="2022-12-27T15:59:30 PST" finished-at="2022-12-27T15:59:32 PST">
     <groups>
     </groups>
-    <test name="Capstone_Project" duration-ms="2246" started-at="2022-12-27T15:51:42 PST" finished-at="2022-12-27T15:51:45 PST">
+    <test name="Capstone_Project" duration-ms="2195" started-at="2022-12-27T15:59:30 PST" finished-at="2022-12-27T15:59:32 PST">
       <class name="tests.ElementsTests">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="1038" started-at="2022-12-27T15:51:42 PST" finished-at="2022-12-27T15:51:43 PST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="997" started-at="2022-12-27T15:59:30 PST" finished-at="2022-12-27T15:59:31 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="checkCategoriesHomePage()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkCategoriesHomePage" duration-ms="29" started-at="2022-12-27T15:51:43 PST" description="Test to verify that there are three categories in the Home Page" finished-at="2022-12-27T15:51:43 PST">
+        <test-method status="PASS" signature="checkCategoriesHomePage()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkCategoriesHomePage" duration-ms="20" started-at="2022-12-27T15:59:31 PST" description="Test to verify that there are three categories in the Home Page" finished-at="2022-12-27T15:59:31 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkCategoriesHomePage -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1150" started-at="2022-12-27T15:51:43 PST" finished-at="2022-12-27T15:51:45 PST">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1151" started-at="2022-12-27T15:59:31 PST" finished-at="2022-12-27T15:59:32 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="3291" started-at="2022-12-27T15:51:54 PST" finished-at="2022-12-27T15:51:57 PST">
+  <suite name="Default Suite" duration-ms="3927" started-at="2022-12-27T15:59:40 PST" finished-at="2022-12-27T15:59:44 PST">
     <groups>
     </groups>
-    <test name="Capstone_Project" duration-ms="3291" started-at="2022-12-27T15:51:54 PST" finished-at="2022-12-27T15:51:57 PST">
+    <test name="Capstone_Project" duration-ms="3927" started-at="2022-12-27T15:59:40 PST" finished-at="2022-12-27T15:59:44 PST">
       <class name="tests.ElementsTests">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="910" started-at="2022-12-27T15:51:54 PST" finished-at="2022-12-27T15:51:55 PST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="beforeTest" is-config="true" duration-ms="1008" started-at="2022-12-27T15:59:40 PST" finished-at="2022-12-27T15:59:41 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="checkElementsProductPage()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkElementsProductPage" duration-ms="1111" started-at="2022-12-27T15:51:55 PST" description="Test to verify that each product page has the elements &#039;Add to cart button&#039;, &#039;Product Description&#039;, &#039;Price&#039;, &#039;Name of Product&#039; and &#039;Image of Product&#039;" finished-at="2022-12-27T15:51:56 PST">
+        <test-method status="PASS" signature="checkElementsProductPage()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="checkElementsProductPage" duration-ms="1648" started-at="2022-12-27T15:59:41 PST" description="Test to verify that each product page has the elements &#039;Add to cart button&#039;, &#039;Product Description&#039;, &#039;Price&#039;, &#039;Name of Product&#039; and &#039;Image of Product&#039;" finished-at="2022-12-27T15:59:43 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkElementsProductPage -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1243" started-at="2022-12-27T15:51:56 PST" finished-at="2022-12-27T15:51:57 PST">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ElementsTests@3dd1dc90]" name="afterTest" is-config="true" duration-ms="1247" started-at="2022-12-27T15:59:43 PST" finished-at="2022-12-27T15:59:44 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
